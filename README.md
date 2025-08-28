@@ -20,6 +20,9 @@ It includes pivot tables, charts, and slicers to identify trends in revenue, pro
 - **Charts** → Trend analysis & category performance  
 - **Slicers & Filters** → Interactive reporting  
 
+## Report 
+<img width="1470" height="956" alt="report" src="https://github.com/user-attachments/assets/50ed9fe1-67d0-40be-9b60-756667c0145d" />
+
 ---
 
 ## 🚀 How to Use
